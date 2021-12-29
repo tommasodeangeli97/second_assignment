@@ -12,7 +12,7 @@ download the package.
 
 to run the nodes:
 
-go to "world" folder in the "second_assignment" package $cd /my_ros_ws/src/second_assignment/world and to run the simulation write the command $rosrun stage_ros stageros my_world.world 
+go to "world" folder in the "second_assignment" package and to run the simulation write the command $rosrun stage_ros stageros my_world.world 
 
 now you can run the "controllo" node with $rosrun second_assignment controllo   //the controllo node waits
 
